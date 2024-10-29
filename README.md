@@ -1,7 +1,7 @@
 # DevOps 
 --------
 
-Linux - AWS
+## Linux - AWS
 - OS - Servers, Package management, services, process, Basic Commands
 free, df -ht, top
 - AWS - VPC, Subnet, IGW, NAT, RouteTable, Peering, LB, AS, Cloudfront, RDS, Route53, Cloudwatch, SNS, S3, IAM
@@ -9,11 +9,11 @@ free, df -ht, top
 - DevOps
 ----------
 
-What is DevOps?
+## What is DevOps?
 
 IT company - Software 
 
-SDLC - Software development life cycle
+### SDLC - Software development life cycle
     Requrement Gather, Analyse
     Plan, Design
     Coding, Development
@@ -55,6 +55,8 @@ IT company <- Flipkart (1 year)
 Develop + Operation = DevOps
 -------------------------------------------------
 
+## Syllabus
+
 Source Code Management - git, svn, Github, gitlab, bitbucket, codecommit,......
 Infra Code Tool - Terraform, CloudFormation,...
 Containerisation - Docker, Podman, crio, ECR ...
@@ -67,7 +69,7 @@ Build - Maven, Gradle, Ant,...
 AWS DevOps, Azure DevOps, GCP DevOps, OpenSource DevOps
 -------------------------------------------------
 
-Application -
+## Application -
 
 Monolithic | Microservice
 flipkart.py | home.py
